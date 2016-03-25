@@ -1,5 +1,7 @@
 # regl
 
+[![Join the chat at https://gitter.im/mikolalysenko/regl](https://badges.gitter.im/mikolalysenko/regl.svg)](https://gitter.im/mikolalysenko/regl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repo is an attempt at building some new functional abstractions for working with WebGL.  It is still pretty experimental right now, so expect things to change a lot in the near future.  If you want to know more about why I am writing this thing, take a look at the [rationale](RATIONALE.md).
 
 ## Example
